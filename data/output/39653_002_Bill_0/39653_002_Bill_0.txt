@@ -1,0 +1,58 @@
+Time costed: 46.692s
+BlobsExtractionFunction outputs:
+1#017140 Received Fri 
+2#Illlllil|||llllllllllllillllllllllllllllllllilillllll[lllllllll[llllllillllllillllllllillllliillll If payment is not received in full on or before the due date of this Billing Statement the policy will be cancelled effective the cancellation date identified under the Billing Details for the reference number and type. Please allow 5 days for your payment to be delivered to us. You may also pay online at www.ruralins.com or by phone at 866-835- 9075. See back of this statement for additional payment and fee information. 
+3#Finance Co.: JOHNSON BANK ISAOA i. N ' 3290125330 
+4#n: IIuraI Mutual Insurance Company 
+5#Reference Number: HOMG113323 
+6#Mail To: ggHBhasxoglgBeglélK ISAOA SOLON OH 44139 
+7#Check for address change 
+8#Return upper portion with payment in envelope provided. 
+9#Your CRAIG WIEMERI Agent: 2043 LIBERTY AVE BELOIT WI 53511 OFFICE: 608-365-6699 
+10#HOMG113323 
+11#C-2161 (08 14) 
+12#Number 
+13#130113333 
+14#If a payment has been made for the amount due shown above please disregard this notice. 
+15#HOME 
+16#Jun 03 
+17#Reference Type 
+18#5351150111? 
+19#2016 
+20#FULL PAY 
+21#Payment Plan 
+22#(see reverse side) 
+23#°5Z9°5Y°°°69 
+24#3011:0516 
+25#Thank you for your business! 
+26#Billing 
+27#Due Date: 06/18/2016 
+28#06/18/2016 - 06/18/2017 
+29#301501115 
+30#Account HEATHER DEVOE Holder. 939 E WINDFIELD CT UNIT 21 BELOIT WI 53511 
+31#Statement 
+32#Make check payable to: Rural Mutual Insurance Company 
+33#Client Number: 0100064312 
+34#Term Dates 
+35#000003ll000 5 
+36#Amount Due: $340.00 
+37#Rural Mutual Insurance Company PO Box 3040 Milwaukee WI 53201-3040 
+38#Cancellation Date 
+39#Total Amount Due 
+40#06/18/2016 
+41#DUE 
+42#Status 
+43#Process Date: 05/29/2016 
+44#Amount Due 
+45#$340.00 
+46#$340.00 
+
+WindowFrameFunction Captured:
+Box Number: 7
+Box: [0, 520, 740, 760] Words: [Mail, To:, ggHBhasxoglgBeglélK, ISAOA, SOLON, OH, 44139] Ratio: 0.3007714285714286
+Box: [0, 1170, 740, 1410] Words: [Your, CRAIG, WIEMERI, Agent:, 2043, LIBERTY, AVE, BELOIT, WI, 53511, OFFICE:, 608-365-6699] Ratio: 0.37320714285714285
+Box: [860, 200, 1600, 440] Words: [Billing, Statement, Due, Date:, 06/18/2016] Ratio: 0.2418357142857143
+Box: [1530, 500, 2270, 740] Words: [Rural, Mutual, Insurance, Company, PO, Box, 3040, Milwaukee, WI, 53201-3040] Ratio: 0.30147857142857143
+Box: [40, 70, 880, 310] Words: [n:, IIuraI, Mutual, Insurance, Company] Ratio: 0.43593125
+Box: [40, 140, 880, 380] Words: [n:, Insurance, Company] Ratio: 0.43593125
+Box: [1140, 1170, 1980, 1410] Words: [Account, HEATHER, DEVOE, Holder., 939, E, WINDFIELD, CT, UNIT, 21, BELOIT, WI, 53511] Ratio: 0.28130625

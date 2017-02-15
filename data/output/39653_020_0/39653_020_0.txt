@@ -1,0 +1,18 @@
+Time costed: 52.371s
+BlobsExtractionFunction outputs:
+1#017140 Received Fri 
+2#2234 1 MB 0.419 JOHNSON BANK ISAOA PO BOX 39653 SOLON OH 44139-0653 
+3#Jun 03 BADGER MUTUAL INSURANCE COMPANY 1635 W. NATIONAL AVENUE MILWAUKEE WISCONSIN 53204 41 4-383-1234 800-837-7833 
+4#2016 
+5#Name and Address of Insured: 
+6#Policy Number: 00526-70872 Loan Number: 329004923 
+7#Craig R Jacobs 8. Victoria L Jacobs 6627 Highway 31 Caledonia WI 53402-9734 
+8#62221 
+9#Reuter & Associates Inc Direct SI3 MT 001 
+
+WindowFrameFunction Captured:
+Box Number: 4
+Box: [680, 1430, 1420, 1670] Words: [Policy, Number:, 00526-70872, Loan, Number:, 329004923] Ratio: 0.3418285714285714
+Box: [740, 1200, 1480, 1440] Words: [Craig, R, Jacobs, 8., Victoria, L, Jacobs, 6627, Highway, 31, Caledonia, WI, 53402-9734] Ratio: 0.49733571428571427
+Box: [740, 1210, 1480, 1450] Words: [R, Jacobs, 8., Victoria, L, Jacobs, 6627, Highway, 31, Caledonia, WI, 53402-9734] Ratio: 0.49733571428571427
+Box: [1570, 2620, 2410, 2860] Words: [62221, Reuter, &, Associates, Inc, Direct, SI3, MT, 001] Ratio: 0.244

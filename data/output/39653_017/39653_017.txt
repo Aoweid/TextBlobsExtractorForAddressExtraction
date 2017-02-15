@@ -1,0 +1,41 @@
+Time costed: 49.134s
+BlobsExtractionFunction outputs:
+1#"E17140 Rece‘ived Fri 
+2#82077 
+3#Allstate Insurance Company Lender Relations Center P.0. Box 660649 Dallas TX 75266-0649 
+4#IIIIIIIIIIlllmIIIIIIIIIII"IIIl'IIIIIIIIIIIIIIIIIIIIIIIIIIIIIII JOHNSON BANK ITS SUCCESSORS &/OR ASSIGNS PO BOX 39653 SOLON OH 44139-0653 
+5#IS! Terminate this Policy Effective: 05/21/2016 
+6#IE Terminate the interest of the Third Party or Interested Party indentified hereon: 06/15/2016 
+7#Mortgagee or Interested Party: 
+8#The Insured named below has requested the following action: 
+9#Name and address of Insured: 
+10#Policy type: 
+11#Jun 03 
+12#House & Home 
+13#2016 
+14#THIRD PARTY NOTICE OF TERMINATION 
+15#_ 
+16#JOHNSON BANK P 0 BOX 39653 SOLON OH 44139-0653 
+17#MANAV ANAND 6009 E DANBURY RD SCOTTSDALE AZ 85254-6445 
+18#Policy Number: 
+19#> 
+20#v@Allstate: You're in good hands. 
+21#Policyholder(s) MANAV ANAND Policy number 
+22#Loan Number: 0329012312600300 
+23#Your policy provided by Allstate Vehicle and Property Insurance Company 
+24#You may contact us at 1-800-ALLSTATE or visit us at www.a||state.com. 
+25#ITS SUCCESSORS &/OR ASSIGNS 
+26#Information as of May 26 2016 
+27#836177 411 
+28#ABIS68-3 
+29#Page 1 of 1 
+30#WJEE 
+
+WindowFrameFunction Captured:
+Box Number: 6
+Box: [910, 1620, 1650, 1860] Words: [JOHNSON, BANK, P, 0, BOX, 39653, SOLON, OH, 44139-0653] Ratio: 0.22314285714285714
+Box: [1000, 1950, 1740, 2190] Words: [MANAV, ANAND, 6009, E, DANBURY, RD, SCOTTSDALE, AZ, 85254-6445] Ratio: 0.2802
+Box: [1290, 480, 2030, 720] Words: [>, Policyholder(s), MANAV, ANAND, Policy, number] Ratio: 0.21024285714285715
+Box: [1620, 90, 2360, 330] Words: [v@Allstate:, You're, in, good, hands.] Ratio: 0.7607785714285714
+Box: [1600, 370, 2440, 610] Words: [Information, as, of, May, 26,, 2016, Policyholder(s), MANAV, ANAND, Page, 1, of, 1] Ratio: 0.2655625
+Box: [1600, 480, 2440, 720] Words: [Policyholder(s), MANAV, ANAND, Policy, number, Page, 1, of, 1] Ratio: 0.2172625

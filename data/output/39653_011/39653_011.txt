@@ -1,0 +1,34 @@
+Time costed: 45.922s
+BlobsExtractionFunction outputs:
+1#I 017140 Received Fri 
+2#H11 
+3#F0000 001001 000328 0000 00000 
+4#AMERICAN FAMILY INSURANCE 6000 AMERICAN PKY MADISON WI 53783-0001 
+5#Please disregard the cancellation notice we recently sent you Your policy continues without interruption in coverage 
+6#We recently sent you a cancellation notice. However we've now received the necessary information that allows us to reverse our earlier decision to cancel your policy in this instance. We understand the concern that our recent notice may have caused you. Thank you for helping us straighten this out. 
+7#We're here to assist you with any questions or additional information about this letter. Please contact your agent or call us at 1-800-MY AMFAM (1-800-692-6326). 
+8#REGARDING YOUR HOMEOWNERS SPECIAL FORM 3 POLICY 
+9#Please disregard the cancellation notice we sent you. Your policy continues without interruption in coverage. 
+10#From all of us here at American Family Insurance we look forward to providing you committed support to protect the things that matter most to you. 
+11#AMERICAN FAMILY MUTUAL INSURANCE CO. 
+12#U-335 
+13#000328614850119CM100 233-013 000 JOHNSON BANK ITS successons AND/OR ASSIGNS PO BOX 39653 SOLON OH 44139-0653 
+14#Policy number 48RE-5823-01-91-PH03-Wl 
+15#Jun 03 
+16#2016 
+17#Insured name MCVlCAR JOSEPH M 
+18#Page 1 of 1 
+19#1-800-MY AMFAM (692-6326) | amfam.com 
+20#Stock No.30384 Rev. 8/15 
+21#AMERICAN FAMILY m 0 
+22#May 31 2016 
+
+WindowFrameFunction Captured:
+Box Number: 7
+Box: [80, 70, 820, 310] Words: [AMERICAN, FAMILY, INSURANCE, 6000, AMERICAN, PKY, MADISON, WI, 53783-0001] Ratio: 0.22024285714285713
+Box: [170, 0, 910, 240] Words: [Received, Fri, Jun, 03,, 2016, AMERICAN, FAMILY, INSURANCE, 6000, AMERICAN, PKY, MADISON, WI, 53783-0001] Ratio: 0.3081785714285714
+Box: [170, 10, 910, 250] Words: [Fri, Jun, 03,, 2016, AMERICAN, FAMILY, INSURANCE, 6000, AMERICAN, PKY, MADISON, WI, 53783-0001] Ratio: 0.3081785714285714
+Box: [290, 510, 1030, 750] Words: [000328614850119CM100, 233-013, 000, JOHNSON, BANK, ITS, successons, AND/OR, ASSIGNS, PO, BOX, 39653, SOLON, OH, 44139-0653] Ratio: 0.4508714285714286
+Box: [10, 0, 850, 240] Words: [017140, Received, Fri, Jun, 03,, 2016, AMERICAN, FAMILY, INSURANCE, 6000, AMERICAN, PKY, MADISON, WI, 53783-0001] Ratio: 0.2917625
+Box: [10, 10, 850, 250] Words: [017140, Fri, Jun, 03,, 2016, AMERICAN, FAMILY, INSURANCE, 6000, AMERICAN, PKY, MADISON, WI, 53783-0001] Ratio: 0.2917625
+Box: [1450, 130, 2290, 370] Words: [AMERICAN, FAMILY, m, 0, 1-800-MY, AMFAM, (692-6326), |, amfam.com] Ratio: 0.2753625

@@ -1,0 +1,50 @@
+Time costed: 48.927s
+BlobsExtractionFunction outputs:
+1#017140 Received r"i Jun 03 ‘~Ii~_ % § USM" 
+2#1017-1 
+3#00976.‘581RH.J881252739666.01.01.2657 
+4#JOHNSON BANK PO BOX 39653 SOLON.0H 44139-0653 
+5#- 
+6#Re: Policy Number 
+7#You are hereby notified that protection of your interests as they may appear in the above 
+8#policy will cease. 
+9#The coverage is cancelled at 12:01 AM. Standard Time 
+10#location of property described. 
+11#Credit if any resulting from this transaction is being calculated. 
+12#Rev. 8-93 
+13#Insured: TANYA K 
+14#Property Location: 
+15#LoanNumber: 
+16#2016 
+17#9800 Fredericksburg Road 
+18#00662 
+19#USAA 
+20#CANCELLATION NOTICE 
+21#SCHUETTPELZ 
+22#2049 DOLLAR RD DE PERE BROWN 
+23#17 
+24#CASUALTY 
+25#58 
+26#I 
+27#92A 
+28#AND 
+29#INSURANCE COMPANY San Antonio Texas 78288 
+30#TIMOTHY 
+31#WI 
+32#TO 
+33#54115-9713 
+34#MORTGAGEE 
+35#05/27/16 
+36#R 
+37#05- 28 - 16 
+38#SCHUETTPELZ 
+39#MAIL 
+40#at 
+41#LAST PAGE MACH-M 
+42#I 
+43#. 
+
+WindowFrameFunction Captured:
+Box Number: 2
+Box: [170, 560, 910, 800] Words: [JOHNSON, BANK, PO, BOX, 39653, SOLON.0H, 44139-0653] Ratio: 0.35046428571428573
+Box: [1280, 1300, 2020, 1540] Words: [TIMOTHY, R, SCHUETTPELZ, WI, 54115-9713] Ratio: 0.2461

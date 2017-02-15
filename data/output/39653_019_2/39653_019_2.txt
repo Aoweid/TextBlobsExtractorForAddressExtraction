@@ -1,0 +1,31 @@
+Time costed: 52.944s
+BlobsExtractionFunction outputs:
+1#   POLIC 
+2#QBodger Mutual I N s u R A N c E 1635 W. Noﬂonol Ave. ~ Milwaukee WI 53204 
+3#—————————————————————————————— 
+4#MORTGAGEE 001 Johnson Bank I SAOA PO Box Solon LOAN # 
+5#Heather L Schimmers 1408 Southfield Dr Menasha WI 54952-9490 
+6#414/383-1234 - 800/837-7833 
+7#39653 OH 44139-0653 3290130679 
+8#BILLED MORTG 
+9#"ERIQD12:0.. 
+10#MORTGAGEE(S) 
+11#'M-ESIANDARD-HME 
+12#Homeowners 
+13#Potterton-Rule 158 N Iowa 3t Dodgeville WI 
+14#Renewal 
+15#. 58572“ 
+16#— Badger 
+17#Declaration 
+18#Inc 
+19#53533-1546 
+20#2000 
+21#(608) 
+22#-' ""Num'a    93522596 
+
+WindowFrameFunction Captured:
+Box Number: 4
+Box: [10, 320, 750, 560] Words: [  , POLIC] Ratio: 0.3949214285714286
+Box: [110, 560, 850, 800] Words: [Heather, L, Schimmers, 1408, Southfield, Dr, Menasha, WI, 54952-9490] Ratio: 0.27235
+Box: [1260, 570, 2000, 810] Words: [Potterton-Rule, Inc, 158, N, Iowa, 3t, Dodgeville, WI, 53533-1546] Ratio: 0.26557142857142857
+Box: [1180, 110, 2020, 350] Words: [Homeowners, —, Badger, 2000, Renewal, Declaration] Ratio: 0.2392875

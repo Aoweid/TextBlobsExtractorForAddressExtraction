@@ -1,0 +1,19 @@
+Time costed: 49.926s
+BlobsExtractionFunction outputs:
+1#017140 Received Fri 
+2#2232 1 MB 0.419 JOHNSON BANK ISAOA PO BOX 39653 SOLON OH 44139-0653 
+3#Jun 03 
+4#BADGER MUTUAL INSURANCE COMPANY 1635 W. NATIONAL AVENUE MILWAUKEE WISCONSIN 53204 41 4-383-1 234 800-837-7833 
+5#2016 
+6#Name and Address of Insured: 
+7#Policy Number: 00664-64721 Loan Number: 3290111571 
+8#Yuly Osorio 8- Julio Araujo 6238 Dominion Dr Madison WI 53718-3123 
+9#58110 
+10#River Falls Insurance Ctr LLC Direct Sl3 MT 001 
+11#IE 
+
+WindowFrameFunction Captured:
+Box Number: 3
+Box: [670, 1430, 1410, 1670] Words: [Policy, Number:, 00664-64721, Loan, Number:, 3290111571] Ratio: 0.35055714285714284
+Box: [700, 1210, 1440, 1450] Words: [Yuly, Osorio, 8-, Julio, Araujo, 6238, Dominion, Dr, Madison, WI, 53718-3123] Ratio: 0.43647857142857144
+Box: [1690, 2620, 2430, 2860] Words: [River, Falls, Insurance, Ctr, LLC, Direct, Sl3, MT, 001] Ratio: 0.2671071428571429

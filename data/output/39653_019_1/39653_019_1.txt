@@ -1,0 +1,98 @@
+Time costed: 49.532s
+BlobsExtractionFunction outputs:
+1#017140 Received Fri 
+2#QBOdger MUIUCII I N s u R A N c E 1635 W. Ncﬂonol Ave. - Mllwoukee WI 53204 414/383-1234 ° 800/837—7833 
+3#THE 
+4#ITEM NUM 
+5#001 
+6#IN 
+7#WE 
+8#———————————————— 
+9#COVERAGE LIMITS AND Coverage A Dwelling Coverage B Other Structures Coverage C Personal Property Coverage D Loss of Use 
+10#---------------- 
+11#Coverage E Coverage F 
+12#—————————————————————— 
+13#ITEM CLASS CODE 001 234 Jewelry (No DED) 
+14#COVERAGE DESCRIPTION Inland Marine Personal 
+15#PROP HAIL PROP DEDUCT DEDUCT FORM $500 NO 3 MORTGAGEES THAT APPLY: 
+16#CASE OF 
+17#COVER ONLY 
+18#1. 
+19#2. 
+20#Heather L 
+21#1408 Southfield Dr MEnasha WI 54952-9490 
+22#RESIDENCE PREMISES COVERED UNLESS OTHERWISE STATED. 
+23#BASIC COVERAGES 
+24#PREMIUM $788.00 
+25#LADIES PLATINUM DIAMOND ENGAGEMENT RING 14KT W/G CANADIAN 
+26#LOSS UNDER SECTION I OF THE LOSS 
+27#COVERAGE LIMITS AND Personal Liability Medical Payments to Others 
+28#Jun 03 
+29#Schimmers 
+30#THAT PART 
+31#ATTACHED ENDORSEMENTS 
+32#PREMIUM 
+33#2016 
+34#{GYQPERIOD 12 29/16”wb 
+35#SCHEDULED PERSONAL 
+36#ICE 
+37#CONST TYPE 
+38#FR 1 
+39#DIAMOND ANNIVERSARY RING 
+40#SCHEDULED PROPERTY PREMIUM $147.00 
+41#BY THIS 
+42#CONST YEAR 2000 
+43#OVER THE DEDUCTIBLE AMOUNT. 
+44#PREMIUMS 
+45#PREMIUMS 
+46#DEDUCTIBLE 
+47#POLICY 
+48#NUM FAM 1 
+49#PROPERTY 
+50#Homeowners 
+51#OCCUP CODE 
+52#Potterton-Rule Inc 158 N Iowa Dodgeville 
+53#IS 
+54#— 
+55#- 
+56#Renewal 
+57#LOCATED 
+58#SECTION I $251000 $25100 $188250 Actual Loss Sustained 
+59#SECTION II $500000 $1000 
+60#PROT CLASS 
+61#PR 
+62#————-----———--—-----——— 
+63#LIMIT $20095 
+64#TOTAL POLICY PREMIUM $935.00 
+65#- Badger 
+66#St WI 
+67#AT 
+68#TERR CODE 3 
+69#Declaration 
+70#THE 
+71#53533-1546 
+72#---———--—————-- 
+73#----------————— 
+74#ABOVE ADDRESS 
+75#2000 
+76#LIMIT 
+77#PREMIUM 
+78#§ 
+
+WindowFrameFunction Captured:
+Box Number: 15
+Box: [30, 2740, 770, 2980] Words: [COVERAGE, DESCRIPTION, Inland, Marine, Personal] Ratio: 0.20231428571428572
+Box: [30, 2780, 770, 3020] Words: [COVERAGE, Inland, Marine, Personal] Ratio: 0.20231428571428572
+Box: [130, 560, 870, 800] Words: [Heather, L, Schimmers, 1408, Southfield, Dr, MEnasha, WI, 54952-9490] Ratio: 0.2718714285714286
+Box: [180, 1170, 920, 1410] Words: [BASIC, ATTACHED, COVERAGES, ENDORSEMENTS, PREMIUM, PREMIUM, $788.00] Ratio: 0.2800214285714286
+Box: [180, 1180, 920, 1420] Words: [BASIC, COVERAGES, ENDORSEMENTS, PREMIUM, PREMIUM, $788.00] Ratio: 0.2800214285714286
+Box: [180, 1230, 920, 1470] Words: [PREMIUM, PREMIUM, $788.00] Ratio: 0.2151
+Box: [390, 1930, 1130, 2170] Words: [A, B, Other, Structures, C, Personal, Property, D, Loss, of, Use] Ratio: 0.28418571428571426
+Box: [520, 1170, 1260, 1410] Words: [ATTACHED, SCHEDULED, ENDORSEMENTS, PROPERTY, PREMIUM, PREMIUM, $147.00] Ratio: 0.2958357142857143
+Box: [520, 1180, 1260, 1420] Words: [ENDORSEMENTS, PROPERTY, PREMIUM, PREMIUM, $147.00] Ratio: 0.2958357142857143
+Box: [1290, 570, 2030, 810] Words: [Potterton-Rule, Inc, 158, N, Iowa, St, Dodgeville, WI, 53533-1546] Ratio: 0.26635714285714285
+Box: [90, 1930, 930, 2170] Words: [Coverage, A, Coverage, B, Other, Structures, Coverage, C, Personal, Property, Coverage, D, Loss, of, Use] Ratio: 0.41994375
+Box: [140, 860, 980, 1100] Words: [THE, RESIDENCE, PREMISES, COVERED, UNLESS, OTHERWISE, STATED.] Ratio: 0.21000625
+Box: [960, 1410, 1800, 1650] Words: [CONST, NUM, OCCUP, PROT, TERR, YEAR, FAM, CODE, CLASS, CODE, 2000, 1, PR, 3] Ratio: 0.2079625
+Box: [1200, 120, 2040, 360] Words: [Homeowners, -, Badger, 2000, Renewal, Declaration] Ratio: 0.23959375
+Box: [1200, 130, 2040, 370] Words: [Homeowners, -, 2000, Renewal, Declaration] Ratio: 0.23959375

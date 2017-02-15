@@ -1,0 +1,46 @@
+Time costed: 48.54s
+BlobsExtractionFunction outputs:
+1#017140 Received Fri 
+2#Q 
+3#\/ Badger Mutual INSURANCE 
+4#05/30/2016 A7-MT 
+5#2233 1 MB 0.419 JOHNSON BANK ISAOA PO BOX 39653 SOLON OH 441390653 
+6#Mortgage Holder 
+7#Location: 
+8#Policy Number: 
+9#This policy will expire at 12:01 AM. on 6/28/2016. To renew this policy we must receive at the home ofﬁce $935.00 by 06/27/2016. We will alert the policyholder if we do not receive your payment by 6/16/2016. Please allow ample mailing time to assure continuous coverage. 
+10#Please mail $935.00 to Badger Mutual Insurance Company. A tear-off billing notice is included at the bottom of this form. 
+11#Badger Mutual NSURANCE 
+12#00662-87221 HEATHER L SCHIMMERS 1408 SOUTHFIELD DR MENASHA WI 54952-9490 
+13#Jun 03 
+14#1408 Southfield Dr 
+15#Please tear off bottom and return with payment. Retain the top portion for your records 
+16#2016 
+17#00662-87221 
+18#Please return this notice with payment 
+19#Due Date: 
+20#Mortgagee 
+21#This is a Mortgage Bill Property Policy 
+22#Loan Number: 
+23#Amount Due: 
+24#JOHNSON BANK ISAOA PO BOX 39653 SOLON OH 44139-0653 
+25#Loan Number: Amount Due: 
+26#POLICY RENEWAL 
+27#Billing Name and Address HEATHER L SCHIMMERS 1408 SOUTHFIELD DR MENASHA WI 54952-9490 
+28#PO. Box 2985 - Milwaukee WI 53201 800/837-7833 
+29#06/27/2016 
+30#PO. Box 2985 - Milwaukee WI 53201 800/837-7833 
+31#3290130679 $935.00 
+32#3290130679 
+33#$935.00 
+
+WindowFrameFunction Captured:
+Box Number: 8
+Box: [190, 2780, 930, 3020] Words: [00662-87221, HEATHER, L, SCHIMMERS, 1408, SOUTHFIELD, DR, MENASHA, WI, 54952-9490] Ratio: 0.40913571428571427
+Box: [1250, 2770, 1990, 3010] Words: [JOHNSON, BANK, ISAOA, PO, BOX, 39653, SOLON, OH, 44139-0653] Ratio: 0.2668142857142857
+Box: [1360, 620, 2100, 860] Words: [Billing, Name, and, Address, HEATHER, L, SCHIMMERS, 1408, SOUTHFIELD, DR, MENASHA, WI, 54952-9490] Ratio: 0.4349071428571429
+Box: [1390, 920, 2130, 1160] Words: [Loan, Number:, 3290130679, Amount, Due:, $935.00] Ratio: 0.30756428571428573
+Box: [160, 2450, 1000, 2690] Words: [\/, Badger, Mutual, INSURANCE] Ratio: 0.45625625
+Box: [160, 2470, 1000, 2710] Words: [\/, Badger, INSURANCE] Ratio: 0.45625625
+Box: [1380, 380, 2220, 620] Words: [This, is, a, Mortgage, Bill, Property, Policy, POLICY, RENEWAL] Ratio: 0.301725
+Box: [1530, 140, 2370, 380] Words: [PO., Box, 2985, -, Milwaukee,, WI, 53201, 800/837-7833] Ratio: 0.20335625

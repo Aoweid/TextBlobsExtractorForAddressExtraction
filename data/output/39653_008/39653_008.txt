@@ -1,0 +1,33 @@
+Time costed: 48.105s
+BlobsExtractionFunction outputs:
+1#017140 Received Fri 
+2#Insurer TRAVELERS COMMERCIAL INSURANCE COMPANY 
+3#POUCYHOLDEH 
+4#MUHAMMAD BUKHARI TYPE OF INSURANCE ' 
+5#Homeowners 
+6#A TRAVELERS J JOHNSON INSURANCE SERVICES 13303 WASHINGTON AVE MT PLEASANT WI 53177 
+7#JOHNSON BANK PO BOX 39653 SOLON 0H 
+8#We are pleased to inform you that your policy has Thank you for your payment. 
+9#PL-6922 
+10#000434/00434 
+11#Jun 03 
+12#44139 
+13#2016 
+14#ISAOA 
+15#F3116GOO 
+16#REINSTATEMENT NOTICE 
+17#8644 
+18#05/27/16 
+19#995446758 633 1 POLICY PERIOD 03/08/16 
+20#POUCY IDENTIFICATION NUMBER 
+21#Date of this Notlce 
+22#been reinstated. 
+23#to 03/08/17 
+24#For POI-1°)! changes or quesfions call: 1-800-236-5546 For clams can: 1—800-252-4633. 
+25#05/27/16 
+
+WindowFrameFunction Captured:
+Box Number: 3
+Box: [70, 520, 810, 760] Words: [JOHNSON, BANK, ISAOA, PO, BOX, 39653, SOLON, 0H, 44139] Ratio: 0.20106428571428572
+Box: [70, 610, 810, 850] Words: [PO, BOX, 39653, SOLON, 0H, 44139] Ratio: 0.20106428571428572
+Box: [1760, 530, 2500, 770] Words: [For, POI-1°)!, changes, or, quesfions, call:, 1-800-236-5546, For, clams, can:, 1—800-252-4633.] Ratio: 0.29315714285714284

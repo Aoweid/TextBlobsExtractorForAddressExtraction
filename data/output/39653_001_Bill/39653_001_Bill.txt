@@ -1,0 +1,58 @@
+Time costed: 44.962s
+BlobsExtractionFunction outputs:
+1#017140 Received Fri 
+2#Illllll[IllllllllllllllllllllllllllllllllllllllllllllllllIII]llllllllllllllﬂlllllllllllllllllll If payment has been made for the amount shown above please disregard this notice. If payment is not received in full on or before the due date of this Account Billing Statement the policy will be cancelled effective the cancellation date identified under the Account Billing Details for the reference number and type. Please allow 5 days for your payment to be delivered to us. You may also pay online at www.ruralins.com or by phone at 866-835-9075. See back of this statement for additional payment and fee information. Wisconsin Farm Bureau Federation Dues are not deductible as a charitable contribution for federal income tax purposes but they may be deductible as a business expense. ”'Wisconsin Farm Bureau Foundation is a nonprofit 501 (c)(3) entity affiliated with the Wisconsin Farm Bureau Federation organized to support ag education programs. Contributions are voluntary and included in the total if indicated above. Contributions may be tax deductible for federal and state income tax purposes; consult with your tax advisor. Learn more about the Foundation and how you can provide additional support at www.wfbfoundation.com. Farm Bureau Membership Dues included in this billing are not an insurance premium. Farm Bureau dues are utilized for the betterment of Wisconsin agriculture. 
+3#’1': Rural 
+4#Reference Number: HOMGOQ2973 
+5#Mail To: JOHNSON BANK PO BOX 39653 SOLON OH 44139 
+6#Check for address change 
+7#Return upper portion with payment in envelope provided. 
+8#Your HUDSON AGENCY & ASSOCIATES Agent: 2273 MCCOY RD SUN PRAIRIE WI 53590 OFFICE: 608-828-5751 
+9#Number HOM6092973 
+10#C-2158a (02 16) 
+11#I 
+12#lEUU‘lE‘I?3 
+13#I 
+14#Reference Type HOME 
+15#Jun 03 
+16#Mutual Insurance Company 
+17#SBLBSDEDH 
+18#2016 
+19#I 
+20#Payment Plan FULL PAY 
+21#(see reverse side) 
+22#052805Y00121 
+23#EULEDSBD Eﬂlblllﬁ 
+24#Thank you for your business! 
+25#Account Billing Statement Due Date: 06/20/2016 
+26#05/20/2016 - 05/20/2017 
+27#Account DOUG GRAY Holder: 1740 S 70TH STREET WEST ALLIS WI 53214 
+28#Account Number: 531850204 Client Number: 0100082873 
+29#Make check payable to: Rural Mutual Insurance Company —] 
+30#Term Dates 
+31#UBDDUL‘ILUD 
+32#| Total 
+33#Amount: 
+34#Rural Mutual Insurance Company PO Box 3040 Milwaukee WI 53201-3040 
+35#Cancellation Date 
+36#11/18/2016 
+37#I] 
+38#$191.00 
+39#DUE 
+40#Status 
+41#Process Date: 05/28/2016 
+42#| 
+43#Amount 
+44#$191.00 
+45#$191.00 
+
+WindowFrameFunction Captured:
+Box Number: 8
+Box: [0, 550, 740, 790] Words: [Mail, To:, JOHNSON, BANK, PO, BOX, 39653, SOLON, OH, 44139] Ratio: 0.24098571428571428
+Box: [830, 210, 1570, 450] Words: [Account, Billing, Statement, Due, Date:, 06/20/2016] Ratio: 0.3115142857142857
+Box: [830, 290, 1570, 530] Words: [Billing, Statement, Due, Date:, 06/20/2016] Ratio: 0.24302142857142858
+Box: [1070, 1360, 1810, 1600] Words: [Account, Number:, 531850204, Client, Number:, 0100082873] Ratio: 0.24578571428571427
+Box: [1100, 1180, 1840, 1420] Words: [Account, DOUG, GRAY, Holder:, 1740, S, 70TH, STREET, WEST, ALLIS, WI, 53214] Ratio: 0.2972
+Box: [1530, 530, 2270, 770] Words: [Rural, Mutual, Insurance, Company, PO, Box, 3040, Milwaukee, WI, 53201-3040] Ratio: 0.3056285714285714
+Box: [10, 70, 850, 310] Words: [’1':, Rural, Mutual, Insurance, Company] Ratio: 0.415525
+Box: [1040, 1540, 1880, 1780] Words: [Term, Cancellation, Dates, Date, 05/20/2016, -, 05/20/2017, 11/18/2016] Ratio: 0.201475

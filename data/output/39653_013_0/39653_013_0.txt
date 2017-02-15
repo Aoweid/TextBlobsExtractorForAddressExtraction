@@ -1,0 +1,22 @@
+Time costed: 47.742s
+BlobsExtractionFunction outputs:
+1#017140 Received Fri 
+2#2231 1MB 0.419 JOHNSON BANK ISAOA PO BOX 39653 SOLON OH 44139-0653 
+3#Jun 03 
+4#BADGER MUTUAL INSURANCE COMPANY 1635 W. NATIONAL AVENUE MILWAUKEE WISCONSIN 53204 41 4»383-1 234 800-837-7833 
+5#2016 
+6#Name and Address of Insured: 
+7#Policy Number: 00688-34251 Loan Number: 3290125386 
+8#Joyce A DirschI 
+9#3711 Misty Meadow Ln Unit 58 De Pere WI 54115-7636 
+10#58762 
+11#Dart Insurance Agency Inc Direct SI3 MT 001 
+
+WindowFrameFunction Captured:
+Box Number: 6
+Box: [670, 1430, 1410, 1670] Words: [Policy, Number:, 00688-34251, Loan, Number:, 3290125386] Ratio: 0.34845714285714285
+Box: [700, 980, 1440, 1220] Words: [Name, and, Address, of, Insured:] Ratio: 0.2033357142857143
+Box: [700, 1070, 1440, 1310] Words: [Name, and, Address, of, Insured:, Joyce, A, DirschI] Ratio: 0.30351428571428574
+Box: [1750, 2620, 2490, 2860] Words: [Dart, Insurance, Agency, Inc, Direct, SI3, MT, 001] Ratio: 0.26567857142857143
+Box: [740, 1210, 1580, 1450] Words: [Joyce, A, DirschI, 3711, Misty, Meadow, Ln, Unit, 58, De, Pere, WI, 54115-7636] Ratio: 0.37746875
+Box: [1570, 2620, 2410, 2860] Words: [58762, Dart, Insurance, Agency, Inc, Direct, SI3, MT, 001] Ratio: 0.267575

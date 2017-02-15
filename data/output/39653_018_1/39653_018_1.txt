@@ -1,0 +1,87 @@
+Time costed: 46.503s
+BlobsExtractionFunction outputs:
+1#017140 Received Fri 
+2#00664- -61721    (715) 425- 5858 
+3#QBodger Mutual I N s u R A N c E 1635 w. Noﬂonol Ave. 0 Mllwoukee. WI 53204 414/383-1234~ 800/837-7833 
+4#THE 
+5#ITEM NUM 
+6#001 
+7#IN WE 
+8#- --------------- 
+9#COVERAGE LIMITS AND PREMIUMS Coverage A Dwelling Coverage B other Structures Coverage C Personal Property Coverage D Loss of Use 
+10#- --------------- 
+11#Coverage E Coverage F 
+12#------------------------------ 
+13#MORTGAGEE 001 Johnson Bank 
+14#PROP HAIL DEDUCT DEDUCT $1000 NO 3 MORTGAGEES THAT APPLY: 
+15#CASE OF COVER ONLY 
+16#ISAOA PO Box 
+17#Solon LOAN # 
+18#Yuly Osorio & Julio Araujo 6238 Dominion Dr Madison WI 53718-3123 
+19#RESIDENCE PREMISES COVERED UNLESS OTHERWISE STATED. 
+20#BASIC COVERAGES 
+21#PREMIUM $614.00 
+22#39653 
+23#OH 44139-0653 3290111571 
+24#LOSS UNDER SECTION I THAT PART OF THE LOSS 
+25#COVERAGE LIMITS AND PREMIUMS Personal Liability Medical Payments to Others 
+26#Jun 03 
+27#ATTACHED ENDORSEMENTS 
+28#PREMIUM $82.00 
+29#2016 
+30#PROP FORM 
+31#CONST CONST TYPE YEAR 
+32#FR 1 
+33#SCHEDULED PROPERTY 
+34#2001 
+35#BY THIS 
+36#PREMIUM 
+37#MORTGAGEE(S) 
+38#OVER THE DEDUCTIBLE AMOUNT. 
+39#POLICY 
+40#NUM FAM 
+41#1 
+42#Homeowners 
+43#OCCUP CODE 
+44#River Falls Insurance 
+45#River Falls 216 N Main st Ste G WI 54022-2380 
+46#IS 
+47#--------—-------- 
+48#- 
+49#- 
+50#Renewal 
+51#LOCATED 
+52#SECTION I $221000 $22100 $165750 Actual Loss 
+53#SECTION II $500000 $1000 
+54#PROT CLASS 
+55#PR 
+56#TOTAL POLICY 
+57#PREMIUM $696.00 
+58#- Badger 
+59#AT 
+60#TERR CODE 
+61#Declaration 
+62#5 
+63#THE 
+64#-- 
+65#-- 
+66#ABOVE ADDRESS 
+67#2000 
+68#Ctr LLC 
+69#E? 
+
+WindowFrameFunction Captured:
+Box Number: 13
+Box: [60, 2580, 800, 2820] Words: [ISAOA, PO, Box, 39653, Solon, OH, 44139-0653, LOAN, #, 3290111571] Ratio: 0.23957142857142857
+Box: [60, 2630, 800, 2870] Words: [PO, Box, 39653, Solon, OH, 44139-0653, LOAN, #, 3290111571] Ratio: 0.21507857142857142
+Box: [130, 620, 870, 860] Words: [Yuly, Osorio, &, Julio, Araujo, 6238, Dominion, Dr, Madison, WI, 53718-3123] Ratio: 0.30132857142857145
+Box: [180, 1170, 920, 1410] Words: [BASIC, ATTACHED, COVERAGES, ENDORSEMENTS, PREMIUM, PREMIUM, $614.00, $82.00] Ratio: 0.3187714285714286
+Box: [180, 1230, 920, 1470] Words: [COVERAGES, ENDORSEMENTS, PREMIUM, PREMIUM, $614.00, $82.00] Ratio: 0.2551285714285714
+Box: [390, 1930, 1130, 2170] Words: [A, Dwelling, B, other, Structures, C, Personal, Property, D, Loss, of, Use] Ratio: 0.2845
+Box: [520, 1170, 1260, 1410] Words: [ATTACHED, SCHEDULED, ENDORSEMENTS, PROPERTY, PREMIUM, PREMIUM, $82.00] Ratio: 0.2908857142857143
+Box: [520, 1230, 1260, 1470] Words: [ENDORSEMENTS, PROPERTY, PREMIUM, PREMIUM, $82.00] Ratio: 0.20575714285714286
+Box: [90, 1930, 930, 2170] Words: [Coverage, A, Dwelling, Coverage, B, other, Structures, Coverage, C, Personal, Property, Coverage, D, Loss, of, Use] Ratio: 0.41895
+Box: [130, 860, 970, 1100] Words: [THE, RESIDENCE, PREMISES, COVERED, UNLESS, OTHERWISE, STATED.] Ratio: 0.210425
+Box: [130, 1460, 970, 1700] Words: [ITEM, PROP, HAIL, PROP, CONST, NUM, DEDUCT, DEDUCT, FORM, TYPE, 001, $1000, NO, 3, FR, MORTGAGEES, THAT, APPLY:, 1] Ratio: 0.339675
+Box: [1200, 120, 2040, 360] Words: [Homeowners, -, Badger, 2000, Renewal, Declaration] Ratio: 0.2379
+Box: [1290, 560, 2130, 800] Words: [River, Falls, River, Falls, Insurance, Ctr, LLC, 216, N, Main, st, Ste, G, WI, 54022-2380] Ratio: 0.27063125

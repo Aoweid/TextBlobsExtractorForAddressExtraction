@@ -1,0 +1,38 @@
+Time costed: 45.065s
+BlobsExtractionFunction outputs:
+1#MetLife® Auto & Home 
+2#The residence premises covered by this policy is located at: 1513 E MARQUETTE ST APPLETON WI 
+3#Basic Policy Coverages: A - Dwelling B - Private Structures C — Personal Property F — Personal Liability: Each Occurrence G - Medical Payments to Others: Each Person Loss of Use 
+4#Causes of Property Loss Special Perils 
+5#Building Property Loss Settlement: Replacement Cost 
+6#Personal Property Loss Settlement: Actual Cash Value 
+7#Optional Coverages 
+8#Prior Annual Premium: $503.00 Current Annual Premium: Change in premium from 07-14-2015 through 07-14-2016: $0.00 
+9#Deductible(s) $2500 deductible applies to each loss 
+10#MetLife® Auto & Home is a brand of Metropolitan Property and Casualty Insurance Company and its Afﬁliates Warwick RI 
+11#MPL 1380-000 
+12#Policy Number: 5371644931 Policy Term: From 07-14-2015 to 07-14-2016 12:01 AM. Standard Time at the location of the property insured as stated in the policy. 
+13#Named Insured: JOSEPH NEILITZ RACHEL NEILITZ 335 E CLEARWATER DR APPLETON WI 54913 
+14#Back Up of Sewer Drain and Sump Pump Coverage: $5000 Limit. $500 Deductible 
+15#Metropolitan Prope Landlord's 
+16#and Casualty Insurance Company ental Dwelling Declarations 
+17#Page 1 of 2 Change 01 Policy Change Effective Date: 07-14-2015 
+18#Bill To: 
+19#First Mortgagee: Loan 3290117766 JOHNSON BANK ISAOA PO BOX 39653 SOLON OH 44139 
+20#54911 
+21#Limits $200900 $40190 $10045 
+22#$300000 
+23#$2500 $50225 
+24#Insured 
+25#Printed in U.S.A. 0298 
+26#Premiums $389.00 $60.00 
+27#_ 
+28#5-26-16 ST 48 
+29#$503.00 
+30#AP-OH-2 
+31#$9.00 
+32#$4.00 
+33#$41.00 
+
+WindowFrameFunction Captured:
+Box Number: 0

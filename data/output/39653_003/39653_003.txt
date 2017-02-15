@@ -1,0 +1,56 @@
+Time costed: 48.064s
+BlobsExtractionFunction outputs:
+1#017140 Received Fri 
+2#’ »— 
+3#. 
+4#. 
+5#Reason Codes: .H1vslnformation Forthcoming >' H4.Bill Insured H7 Payment Forthcoming ' K1 Other Coverage Placed Mortga e Lender: Insure Name: Address: Clty State le: JOHNSON BANK REED DANIEL ~ 10891 E . MOUNTAIN SPRING RD SCOTTSDALE AZ 85255 
+6#CORRESPONDENCE OR INQUIRIES DIRECTED TO THE INSURER MUST INCLUDE A COPY OF THIS LIST BILL. DIRECT PHONE INQUIRIES T0: 800-682-4822 Please remit to: (Be sure to include a copy of the Mortgage Combined List Bill with your payment) CHUBB GROUP OF INSURANCE COMPANIES PO BOX 7247-0180 PHILADELPHIA PA 19170 - 0180 
+7#CHUBB GROUP OF INSURANCECOMPANIES 202 HALL'S MILL ROAD PO BOX 1600 WHITEHOUSE STATION NJ 08889-1600 
+8#RETURN SERVICE REQUESTED 
+9#0530065937 - ED5006065937=000451 :000451'1 l1 JOHNSON BANK ISAOA PO BOX 39653 SOLON OH 44139-0653 
+10#TOTAL AMOUNT DUE: $ 
+11#Jun 03 
+12#' 
+13#2016 
+14#< 
+15#H2 Payment Previously Sent  H5 Loan Service Released H8 Bill Mortgagee K2 Invalrd Policy Number 
+16#MORTGAGE COMBINED LIST BILL 
+17#' 
+18#. 
+19#2  919 . 00 
+20#Account number Pollcy number Loan number Dwelllng Ilmlt 1497 0793 1628 001 P 14117938-06 001 3290132969 $3  500  000 . 00 
+21#~ADJUSTED' TOTAL AMOUNT 
+22#H3 Loan Paid in Full H6 Partial Payment Remitted H9 Coverage Summary Needed K3 Renewal Not Recelved 
+23#. 
+24#' 
+25#TOTAL 
+26#LIST BILL CONTROL PREMIUM DUE DATE: 
+27#Effective Dt Explratlon Dt Premlum due 
+28#05232016 05232017 ' 2  919 . 00 
+29#AMOUNT DUE: 
+30# 
+31#DUE: 
+32#Adjusted Amount (Optional) 
+33#PAGE 
+34#- 
+35#NO: 
+36#1106021 20160624 
+37#$ 
+38#1 
+39#Reason Code 
+40#2  919 . 00 
+
+WindowFrameFunction Captured:
+Box Number: 11
+Box: [870, 1390, 1610, 1630] Words: [1497, 0793, 1628, 001, P, 14117938-06, 001, ., 3290132969, $3, ,, 500, ,, 000, ., 00] Ratio: 0.27376428571428574
+Box: [1190, 1020, 1930, 1260] Words: [,, ,, H3, Loan, Paid, in, Full, H6, Partial, Payment, Remitted, H9, Coverage, Summary, Needed, K3, Renewal, Not, Recelved] Ratio: 0.2889857142857143
+Box: [1240, 620, 1980, 860] Words: [LIST, BILL, CONTROL, PREMIUM, DUE, DATE:, ', TOTAL, AMOUNT, DUE:] Ratio: 0.23866428571428572
+Box: [1250, 1020, 1990, 1260] Words: [,, H3, Loan, Paid, in, Full, -,, H6, Partial, Payment, Remitted, H9, Coverage, Summary, Needed, K3, Renewal, Not, Recelved] Ratio: 0.29035714285714287
+Box: [1330, 620, 2070, 860] Words: [LIST, BILL, CONTROL, NO:, PREMIUM, DUE, DATE:, ', TOTAL, AMOUNT, DUE:] Ratio: 0.25239285714285714
+Box: [50, 1390, 890, 1630] Words: [JOHNSON, BANK, REED, DANIEL, ~, 10891, E, ., MOUNTAIN, SPRING, RD, ', SCOTTSDALE, AZ, 85255] Ratio: 0.29935625
+Box: [130, 110, 970, 350] Words: [CHUBB, GROUP, OF, INSURANCECOMPANIES, 202, HALL'S, MILL, ROAD, PO, BOX, 1600, WHITEHOUSE, STATION, NJ, 08889-1600] Ratio: 0.347425
+Box: [1040, 1390, 1880, 1630] Words: [1497, 0793, 1628, 001, P, 14117938-06, 001, 05232016, 3290132969, 05232017, $3, ,, 500, ,, 000, ., 00, ', 2, ,, 919, ., 00] Ratio: 0.34775
+Box: [1190, 1020, 2030, 1260] Words: [,, ,, H3, Loan, Paid, in, Full, -,, H6, Partial, Payment, Remitted, H9, Coverage, Summary, Needed, K3, Renewal, Not, Recelved] Ratio: 0.2541125
+Box: [1460, 550, 2300, 790] Words: [LIST, BILL, CONTROL, NO:, 1106021, PREMIUM, DUE, DATE:, 20160624, '] Ratio: 0.2219625
+Box: [1530, 550, 2370, 790] Words: [LIST, BILL, CONTROL, NO:, 1106021, PREMIUM, DUE, DATE:, 20160624] Ratio: 0.2218875
